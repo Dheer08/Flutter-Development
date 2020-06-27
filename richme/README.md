@@ -1,6 +1,6 @@
 # richme
 
-My First App in Flutter
+A new Flutter application.
 
 ## Getting Started
 
