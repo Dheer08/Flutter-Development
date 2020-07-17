@@ -1,7 +1,7 @@
 # becomerich
 
-A new Flutter application.
-![test image size](https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/becomerich.jpg){:class="img-responsive"}
+My First Flutter Application
+![](https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/becomerich.jpg){:height="700px" width="400px"}
 
 ## Getting Started
 
