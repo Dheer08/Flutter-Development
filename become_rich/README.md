@@ -1,6 +1,7 @@
 # becomerich
 
 A new Flutter application.
+![alt.text](https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/becomerich.jpg)
 
 ## Getting Started
 
