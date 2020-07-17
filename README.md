@@ -6,9 +6,9 @@ I have create many apps and learnt many new things about flutter.
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>My First Flutter Application</td>
+     <td>My First Challenge in Flutter</td>
+     <td>Visting Card that never runs out</td>
   </tr>
   <tr>
     <td><img src="https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/becomerich.jpg" width=270 height=480></td>
@@ -17,9 +17,6 @@ I have create many apps and learnt many new things about flutter.
   </tr>
  </table>
 
-<img src="https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/becomerich.jpg" width="300" height="550">  <img src="https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/Challenge-Poor.jpg" width="300" height="550">
-<br/>
-<img src = "https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/A%20visting%20card.jpeg" width="300" heigth="500">
 
 
 
