@@ -1,7 +1,7 @@
 # becomerich
 
 My First Flutter Application
-<img src="https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/becomerich.jpg" width="400" height="790">
+<img src="https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/becomerich.jpg" width="400" height="600">
 
 ## Getting Started
 
