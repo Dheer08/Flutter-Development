@@ -1,6 +1,8 @@
 # becomepoor
 
-A new Flutter application.
+My First Flutter Application Challenge
+<br/><br/>
+<img src="https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/Challenge-Poor.jpg" width="300" height="550">
 
 ## Getting Started
 
