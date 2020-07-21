@@ -1,6 +1,9 @@
 # dice_game
 
 Roll  Your Dice anywhere 
+<br/><br/>
+<img src="https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/Dicee.gif" width="800" height="550">
+
 
 ## Getting Started
 
