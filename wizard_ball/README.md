@@ -1,6 +1,8 @@
 # wizard_ball
 
 A Boss Level Challenge in Flutter
+<br/><br/>
+<img src="https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/Wizard.gif">
 
 ## Getting Started
 
