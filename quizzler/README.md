@@ -1,7 +1,8 @@
 # quizzler
 
 A Quiz  application in Flutter
-
+<br/><br/>
+<img src="https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/Quizzler.gif">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
