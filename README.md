@@ -27,9 +27,11 @@ I have created many apps and learnt many new things about flutter.
   </tr>
    <tr>
     <td>Make your Music Anywhere</td>
+     <td>A Quiz Application</td>
   </tr>
   <tr>
     <td><img src="https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/Xylophone.jpg" width=270 height=480></td>
+    <td><img src="https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/Quizzler.gif" width=270 height=480></td>
     </tr>
  </table>
 
