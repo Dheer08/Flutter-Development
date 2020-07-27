@@ -25,6 +25,12 @@ I have created many apps and learnt many new things about flutter.
       <td><img src="https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/Dicee.gif" width=270 height=480></td>
     <td><img src="https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/Wizard.gif" width=270 height=480></td>
   </tr>
+   <tr>
+    <td>Make your Music Anywhere</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/Xylophone.jpg" width=270 height=480></td>
+    </tr>
  </table>
 
 

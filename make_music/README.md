@@ -1,6 +1,10 @@
 # make_music
 
 make your own music anywhere
+<br/><br/>
+Demo Video with audio ![Click Here](https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/Xylophone.mp4)
+<br/><br/>
+<img src="https://github.com/Dheer08/Flutter-Development/blob/master/Demo%20of%20all%20apps/Xylophone.jpg" width="300" height="550">
 
 ## Getting Started
 
